@@ -45,8 +45,8 @@ This project implements a GUI application for detecting gender and age from an i
     ```sh
     python main.py
     ```
-
 3. Use the GUI to open an image file or drag and drop an image. The predicted gender and age will be displayed.
 
-## Project Structure
+## Samples
+![Output1](https://github.com/prabhakarsharma-pythonaire/Gender-and-age-detection/blob/main/samples/Screenshot%202024-07-28%20235250.png)
 
